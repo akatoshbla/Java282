@@ -1,0 +1,18 @@
+purple  purple    
+red  lemon    
+yellow    
+silver    
+green  orange  teale  green  lemon    
+teale  purple  purple  orange    
+purple  white  blue  red  navy  orange  teale  red  blue  lemon  lime  orange  orange  gold    
+red  yellow  yellow    
+pink  gold    
+orange    
+green  lemon  lime    
+red    
+lime  yellow  red    
+orange  orange    
+silver    
+lime  green  lime    
+red    
+green  
